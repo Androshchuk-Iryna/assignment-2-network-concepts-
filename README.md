@@ -1,12 +1,11 @@
 # assignment-2-network-concepts-
 # Custom API Server Implementation
 
-## Installation
-Run the configuration script as root:
-```bash
-sudo ./configureServer.sh
+##To use the client script:
 ```
-
+bashCopy./apiClient.sh <server_ip> [port]
+```
+The default port is 4242 if not specified.
 
 ## Usage
 
